@@ -187,8 +187,8 @@ def modify_card_value(card, role, sum=0):
             return int(card)
 
 def main():
-    # displayIntro()
-    gameplay()
+    displayIntro()
+
 
 
 
